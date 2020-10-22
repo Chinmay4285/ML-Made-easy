@@ -10,3 +10,5 @@ The types of regressions explained,
 
 I have explained linear regression in detail.This folder contains all files used in my medium articles. I request users to add these in your specific folder to get the code to work.GO to this link to find theoritical idea of linear regression - 
 https://medium.com/intel-student-ambassadors/machine-learning-made-easy-linear-regression-an-intuition-b4e7b1315590
+
+![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/Regression.png)
